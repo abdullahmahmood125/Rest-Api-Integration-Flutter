@@ -1,15 +1,17 @@
 # REST API Integration in FLutter
 
-A new Flutter project.
+Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Flutter REST Api inegration:
 
-A few resources to get you started if this is your first Flutter project:
+1. GET
+2. POST
+3. PATCH
+4. FORMDATA
+5. BASE64 ( File Uploading)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
